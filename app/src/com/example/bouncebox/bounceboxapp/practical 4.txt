@@ -1,0 +1,64 @@
+
+Circle 50 60 40 50 50 200 0 0
+Circle 150 160 10 30 50
+Square 250 260 45 -50 -50 10 200 100
+Square 250 260 45 -50 -50
+Triangle 80 130 60 80 20 30
+Triangle 70 150 30 80 -5 15
+Triangle 175 90 80 50 -10 25 10 20 180
+Rectangle 210 75 80 60 -25 30
+Rectangle 310 195 50 90 -5 20 50 80 10
+
+Shape1 50 70 40 50 50 200 0 0
+
+Shape2 60 50 20
+Circle 120 50 20
+Circle 180 50 20
+Circle 240 50 20
+Circle 300 50 20
+Circle 360 50 20
+Circle 420 50 20
+
+Square 480 50 20
+Square 540 50 20
+Square 400 440 40
+Square 320 40 40
+Square 240 60 40
+
+Shape3 10 460 5
+Circle 20 460 5
+Circle 30 460 5
+Circle 40 460 5
+Circle 50 460 5
+Circle 20 470 5
+Circle 30 470 5
+Circle 40 470 5
+Circle 50 470 5
+Circle 20 480 5
+Circle 30 480 5
+Circle 40 480 5
+Circle 50 480 5
+Circle 20 490 5
+Circle 30 490 5
+Circle 40 490 5
+Circle 50 490 5
+
+Shape4 20 230 5
+Triangle 100 130 30 15
+Triangle 180 130 30 15
+Triangle 260 130 30 15
+Triangle 340 130 30 15
+Triangle 420 130 60 80
+Triangle 500 130 60 80
+Triangle 580 130 60 80
+Triangle 660 130 60 80
+Triangle 740 130 60 80
+
+shape5 30 180 15 65 75 30
+Rectangle 110 175 70 40
+Rectangle 160 175 70 40
+Rectangle 210 175 70 40
+Rectangle 260 175 70 40
+Rectangle 310 175 100 50
+Rectangle 360 175 100 50
+Rectangle 410 175 100 50
